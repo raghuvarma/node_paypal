@@ -1,0 +1,10 @@
+{
+	"port" : 3002,
+	"api" : {
+		"host" : "api.sandbox.paypal.com",
+		"port" : "",
+		"client_id" : "XXXXXXXX",
+		"client_secret" : "XXXXXXXX"
+	},
+	"mongo" : "mongodb://localhost:27017/node_paypal"
+}
